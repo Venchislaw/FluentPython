@@ -15,6 +15,9 @@ Mastering my dear Python here🐍<br>
 
 ## **Books Roadmap:**
 
+_Introducing Python_<br>
+<img src='https://learning.oreilly.com/library/cover/9781492051374/250w/' width=10%><br>
+
 _Fluent Python by Luciano Romalho_<br>
 <img src='https://m.media-amazon.com/images/I/81OvszBEdhL._AC_UF1000,1000_QL80_.jpg' width=10%><br>
 
