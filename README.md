@@ -48,3 +48,5 @@ _Invent Your Own Computer Games with Python_<br>
 
 <p align='center'><img src='https://media1.tenor.com/m/nb8zOuDAATQAAAAd/coraline-dad-youre-mom.gif' width=40%></p>
 <p align='center'><h3 align='center'>Happy Coding!</h3></p>
+<br>
+Today I'm Installing Linux! No contributions
